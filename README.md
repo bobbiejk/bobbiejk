@@ -1,5 +1,5 @@
 ### About
-Quantitative marketing researcher with a focus on consumer decision-making in digital subscription markets. 
+Quantitative marketing researcher studying consumer decision-making in digital subscription markets. 
 
 ### Interests
 - 📊 Data collection: Web scraping; APIs; large-scale behavioral data sets.
