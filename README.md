@@ -4,7 +4,7 @@ Quantitative marketing researcher studying consumer decision-making in digital s
 ### Interests
 - 📊 Data collection: Web scraping; APIs; large-scale behavioral data sets.
 - 🤖 Methods: Economic modelling; quasi-experimental methods.
-- 🧪 Reproducible research workflows & AI-assisted project management
+- 🧪 Reproducible research workflows & AI-assisted project management.
 
 ### Tech Stack
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
